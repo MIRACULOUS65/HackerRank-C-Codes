@@ -113,7 +113,7 @@ Made with 💙 by [Sushovan Ghosh](https://www.linkedin.com/in/sushovan-ghosh)
 
 ## 📜 License
 
-This repository is open-source and available under the [MIT License](LICENSE).
+This repository is open-source 
 
 ---
 
