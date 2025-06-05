@@ -12,6 +12,7 @@ A curated collection of beginner to intermediate level **C language programs**, 
 ![GitHub top language](https://img.shields.io/github/languages/top/MIRACULOUS65/HackerRank-C-Codes)
 ![GitHub license](https://img.shields.io/github/license/MIRACULOUS65/HackerRank-C-Codes)
 ![GitHub stars](https://img.shields.io/github/stars/MIRACULOUS65/HackerRank-C-Codes?style=social)
+![VS Code Review](./image/Screenshot%202025-06-05%20224453.jpg) 
 
 ---
 
